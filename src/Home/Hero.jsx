@@ -3,7 +3,7 @@ import NewsContainer from '../Cards/NewsContainer';
 
 const Hero = () => {
   return (
-    <div className='h-screen flex flex-col justify-center items-center mt-10'>
+    <div className='h-screen flex flex-col justify-center items-center mt-16'>
       <div className='bg-gray-100 h-2/3 w-4/5 min-w-md shadow-xl text-center flex flex-col'>
         <img
           src="https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg"
